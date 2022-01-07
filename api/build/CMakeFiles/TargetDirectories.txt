@@ -1,0 +1,3 @@
+/home/qigao/lib_test/api/build/CMakeFiles/rebuild_cache.dir
+/home/qigao/lib_test/api/build/CMakeFiles/edit_cache.dir
+/home/qigao/lib_test/api/build/CMakeFiles/api.dir

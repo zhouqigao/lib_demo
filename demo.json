@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "topic": "topic1",
+      "type": "DemoStruct1"
+    },
+    {
+      "topic": "topic2",
+      "type": "DemoStruct2"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/config_reader.dir/config_reader.cpp.o -o config_reader 

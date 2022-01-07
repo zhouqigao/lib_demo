@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ui.dir/mainwindow.cpp.o -o ui   -L/home/qigao/lib_test/ui/../api/build  -Wl,-rpath,/home/qigao/lib_test/ui/../api/build -lapi 
