@@ -7,4 +7,5 @@ step1:create local repo
 step2:sign in your github and create repo
 step3:at your local repo, running command
   git remote add origin https://...
-  git push -u origin master
+  git branch -M main
+  git push -u origin main
